@@ -79,7 +79,7 @@ Advanced cryptocurrency trading bot with technical analysis, Support/Resistance 
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/crypto-signal-bot.git
+git clone https://github.com/kekokitty/crypto-signal-bot.git
 cd crypto-signal-bot
 
 # Configure environment
@@ -97,7 +97,7 @@ docker-compose logs -f
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/crypto-signal-bot.git
+git clone https://github.com/kekokitty/crypto-signal-bot.git
 cd crypto-signal-bot
 
 # Create virtual environment
