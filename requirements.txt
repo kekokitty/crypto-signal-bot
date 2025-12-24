@@ -1,0 +1,16 @@
+# Core dependencies
+python-dotenv>=1.0.0
+python-binance>=1.0.19   # Binance API client
+python-telegram-bot>=21.0  # Telegram notifications
+pandas>=2.0.0            # Data analysis
+pandas-ta>=0.3.14b       # Technical analysis indicators
+mplfinance>=0.12.10b0    # Candlestick charts
+matplotlib>=3.7.0        # Chart rendering
+
+# Future dependencies (uncomment as needed)
+# ccxt>=4.0.0          # Multi-exchange connectivity
+# pandas>=2.0.0        # Data analysis
+# numpy>=1.24.0        # Numerical operations
+# ta>=0.10.0           # Technical analysis
+# requests>=2.31.0     # HTTP requests
+# websocket-client>=1.6.0  # WebSocket support
